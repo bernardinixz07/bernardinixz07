@@ -1,4 +1,4 @@
-## Sejan bem vindos ao perfil de bernardinixz07 👋 💙
+## Sejam bem vindos ao perfil de bernardinixz07 👋 💙
 Meu nome e Matheus Bernardni
 
 Estou estudando na Alura
