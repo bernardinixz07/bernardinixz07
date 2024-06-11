@@ -1,8 +1,10 @@
-## Sejan bem vindos ao perfil de bernardinixz07 👋 💙💙
-Meu nome Matheus Bernardni
+## Sejan bem vindos ao perfil de bernardinixz07 👋 💙
+Meu nome e Matheus Bernardni
 
 Estou estudando na Alura
+
 Estou me desenvolvendo na linguagem JavaScript
+
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 <!--
 **bernardinixz07/bernardinixz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
