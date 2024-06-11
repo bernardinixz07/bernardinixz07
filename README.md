@@ -1,6 +1,5 @@
-## Hi there 👋
-Boas vindas ao meu perfil 💙💙
-Meu nome é nome sobrenome
+## Sejan bem vindos ao perfil de bernardinixz07 👋 💙💙
+Meu Matheus Bernardni
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
