@@ -1,5 +1,10 @@
 ## Hi there 👋
+Boas vindas ao meu perfil 💙💙
+Meu nome é nome sobrenome
 
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 <!--
 **bernardinixz07/bernardinixz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-![meu nome e matheus e tenho 16 anos e estudo das 7h00 as 15h45](link)
+--
