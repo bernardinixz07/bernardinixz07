@@ -1,5 +1,5 @@
 ## Sejan bem vindos ao perfil de bernardinixz07 👋 💙💙
-Meu Matheus Bernardni
+Meu nome Matheus Bernardni
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
